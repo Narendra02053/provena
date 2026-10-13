@@ -72,6 +72,7 @@ nav:
     - Provenance Validation: guide/provenance.md
     - Freshness Checking: guide/freshness.md
     - Chain Verification: guide/verification.md
+    - Multi-Agent Aggregation: guide/multi-agent.md
     - Configuration: guide/configuration.md
     - Testing: guide/testing.md
   - Integrations:
