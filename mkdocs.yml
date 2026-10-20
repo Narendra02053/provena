@@ -77,6 +77,10 @@ nav:
   - Integrations:
     - LangChain: integrations/langchain.md
     - LlamaIndex: integrations/llamaindex.md
+    - CrewAI: integrations/crewai.md
+    - AutoGen: integrations/autogen.md
+    - OpenAI Agents SDK: integrations/openai-agents.md
+    - Google ADK: integrations/google-adk.md
     - OpenTelemetry: integrations/opentelemetry.md
     - MCP Governance Server: integrations/mcp.md
     - CLI Reference: integrations/cli.md
